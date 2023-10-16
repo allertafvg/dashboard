@@ -3,7 +3,7 @@ var allerta = document.getElementById("allerta");
 
 var settings = {
     "dataType": "json",
-  "url": "https://allerta.binco.me/",
+  "url": "https://allerta.binco.me/proxy.php",
   "method": "GET"
 };
 
